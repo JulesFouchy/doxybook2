@@ -4,3 +4,6 @@
 [submodule "example/hugo-learn/themes/hugo-theme-learn"]
 	path = example/hugo-learn/themes/hugo-theme-learn
 	url = https://github.com/matcornic/hugo-theme-learn
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/Microsoft/vcpkg
